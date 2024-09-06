@@ -1,0 +1,41 @@
+[
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:x1x111x1-xxx1-x111-1x1x-111x111x11x1#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {},
+            "programName": "PROGRAMS.REF.AUTO_SET",
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "nameVariants": "series",
+                "programFamily": "[dashboard]",
+                "zone": "fridge",
+                "remoteVisible": "1"
+            },
+            "applianceType": "REF",
+            "attributes": {
+                "channel": "mobileApp",
+                "origin": "standardProgram",
+                "energyLabel": "0"
+            },
+            "device": {
+                "appVersion": "2.6.5",
+                "deviceModel": "pyhOn",
+                "osVersion": 999,
+                "mobileId": "xxxxxxxxxxxx",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "intelligenceMode": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    }
+]
